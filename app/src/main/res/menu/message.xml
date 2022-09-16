@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="About"
+        android:onClick="method"/>
+    <item android:title="Settings"
+        android:onClick="happy"/>
+    <item android:title="alert"
+        android:onClick="item"/>
+</menu>
